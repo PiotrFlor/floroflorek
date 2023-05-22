@@ -1,6 +1,6 @@
-baseURL = 'http://floroflorek.github.io/'
+baseURL = 'https://piotrflor.github.io/floroflorek/'
 languageCode = 'en-us'
-title = 'Floroflorek InfoSec'
+title = 'floroflorek InfoSec'
 theme = 'hugo-theme-techdoc'
 
 [params]
